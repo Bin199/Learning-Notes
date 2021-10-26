@@ -6,7 +6,7 @@ batch normalization 和 layer normalization:
 另外一层需要 “适应”，而batch normalization 将每一层的参数分布变得相似，不过后来有人推翻了这个原因，
 认为原因是batch normalization使得损失函数曲面变得更加平滑，导致训练时间缩短；在知乎推文里（https://www.zhihu.com/question/38102762）
 作者说BN 有效的原因是防止“梯度弥散”，但不是很理解他的说法
-![](https://github.com/Chen-Shaobin/Learning-Notes/blob/main/figure/BN%20and%20LN.png)
+![](https://github.com/Chen-Shaobin/Learning-Notes/blob/main/figure/why%20BN.png)
 
 再后来，batch normalization
 在batch size很小的时候性能不好（原因见下文），于是提出了layer normalization弥补了不足
