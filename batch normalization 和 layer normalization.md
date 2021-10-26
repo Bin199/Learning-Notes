@@ -24,4 +24,4 @@ layer normalization就不一样了，它是对某一个数据的不同特征，�
 
 附录：为了防止BN破坏输入数据的性质，我们会加上两个参数，使得经过学习有可能恢复输入数据，至于为什么这么做，贴一个精彩的评论：
 
-![](D:\blog\blog image\BN and LN.png)
+![](Learning-Notes\figure\BN and LN.png)
