@@ -7,8 +7,7 @@
    以bert-base-uncased为例，我们从huggingface官网https://huggingface.co上下载好所需要的文件
 
    ![](https://github.com/Chen-Shaobin/Learning-Notes/blob/main/figure/bert_download1.png)
-
-<img src="D:\blog\blog image\bert_download2.png" alt="image" style="zoom:25%;" />
+![](https://github.com/Chen-Shaobin/Learning-Notes/blob/main/figure/bert_download2.png)
 
 下载好这三个文件后放到目标文件夹即可
 
