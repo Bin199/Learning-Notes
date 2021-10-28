@@ -1,0 +1,1 @@
+![](D:\blog\blog image\how to tackle with imbalanced label.jpeg)
